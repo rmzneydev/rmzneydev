@@ -1,4 +1,4 @@
-# 👋 Greetings programs, I'm Neydev
+# 👋 Greetings, programs. I'm Neydev
 
 🎓 Systems Engineer  
 💻 Passionate about development and IT things  
