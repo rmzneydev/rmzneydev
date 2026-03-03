@@ -50,5 +50,8 @@ Hobbies:
 - CSS  
 
 ---
+### Badges
+[![rmzneydev](https://credly-readme-stats.onrender.com/api/carousel?username=rmzneydev&theme=dark&custom_title=rmzneydev)](https://www.credly.com/users/rmzneydev/badges)
 
+---
 End of line.
